@@ -19,4 +19,4 @@ O principal objetivo deste projeto é centralizar minhas informações profissio
 
 ## 🖼️ Wireframes do Projeto
 
---
+-- ![Logo do projeto](Imagens/Wireframe-Page 1 (1).png)
