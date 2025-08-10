@@ -13,7 +13,7 @@ O principal objetivo deste projeto é centralizar minhas informações profissio
 - HTML - Estrutura da página.
 - Bootstrap - Para a criação de um layout responsivo.
 - JavaScript - Para o usuário poder interagir com o site.
-- Figma- Para criar wireframes.
+- MockFlow- Para criar wireframes.
 
 ---
 
