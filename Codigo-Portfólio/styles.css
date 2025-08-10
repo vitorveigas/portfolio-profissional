@@ -1,0 +1,37 @@
+#foto-nome {
+    
+    background: linear-gradient(to bottom, #3b82f6, #4338ca);
+    /* 2563eb */
+
+}
+
+#nome-header{
+    color: #2563eb;
+    transition: 0.5 ease;
+    
+}
+.nav-link {
+  color: black !important;
+  transition: 0.4 ease;
+  text-emphasis: 2;
+}
+.nav-link:hover {
+  color: #2563eb !important; 
+}
+
+#sobre-pt p{
+    color: #4b5563;
+}
+#sobre-en p{
+    color: #4b5563;
+}
+
+#habilidades{
+    background-color: #f3f4f6;
+}
+
+.circle-gray {
+  background-color: #e5e7eb; 
+}
+
+
