@@ -11,6 +11,7 @@ O principal objetivo deste projeto é centralizar minhas informações profissio
 # 💻 Tecnologias utilizadas
 
 - HTML - Estrutura da página.
+- CSS - Para a estilização da página.
 - Bootstrap - Para a criação de um layout responsivo.
 - JavaScript - Para o usuário poder interagir com o site.
 - MockFlow- Para criar wireframes.
