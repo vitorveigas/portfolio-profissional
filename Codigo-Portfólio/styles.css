@@ -19,6 +19,32 @@
   color: #2563eb !important; 
 }
 
+#link-contato:hover{
+  color: #2563eb !important;
+  
+}
+#link-contato {
+  position: relative;
+  color: black;
+  text-decoration: none;
+}
+
+#link-contato::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -3px;
+  left: 0;
+  background-color: #0d6efd;
+  transition: width 0.3s;
+}
+
+#link-contato:hover::after {
+  width: 100%;
+}
+
+
 #sobre-pt p{
     color: #4b5563;
 }
@@ -33,5 +59,64 @@
 .circle-gray {
   background-color: #e5e7eb; 
 }
+
+#experiencias{
+  background-color: #f3f4f6;
+}
+
+.icon-circle {
+      width: 40px;
+      height: 40px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      background-color: #f1f1f1; 
+      font-size: 18px;
+      color: #000; 
+    }
+
+#message {
+  resize: none;
+}
+
+#rodape{
+  background-color: #1f2937;
+}
+
+#rodape{
+  color: #9ca3af;
+}
+
+#rodape {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap; 
+  }
+
+  #rodape .icon-rodape {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%; 
+    background-color: #374151; 
+    color: #000; 
+    font-size: 20px;
+  }
+
+  
+
+  
+  #diretos {
+    flex-basis: 100%;
+    margin-top: 10px;
+    text-align: center;
+    color: #555;
+  }
+
 
 
