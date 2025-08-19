@@ -23,6 +23,8 @@ O principal objetivo deste projeto é centralizar minhas informações profissio
 
 ![Wireframe da página](Imagens/Wireframe-Page%201%20(4).png)
 
+---
+
 ## 🛜 Link do portfólio
 
-[Texto do Link](https://vitorveigas.github.io/portfolio-profissional/)
+[Site do portfólio](https://vitorveigas.github.io/portfolio-profissional/)
