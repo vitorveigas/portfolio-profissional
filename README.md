@@ -15,7 +15,7 @@ O principal objetivo deste projeto é centralizar minhas informações profissio
 - Bootstrap - Para a criação de um layout responsivo.
 - JavaScript - Para o usuário poder interagir com o site.
 - MockFlow- Para criar wireframes.
-- EmailJS - Para enviar e-mails.
+- EmailJS - Para enviar mensagens através do formulário do site.
 
 ---
 
