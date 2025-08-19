@@ -25,6 +25,20 @@ O principal objetivo deste projeto é centralizar minhas informações profissio
 
 ---
 
-## 🛜 Link do portfólio
+## 🖥️ Instruções de Uso
 
-[Site do portfólio](https://vitorveigas.github.io/portfolio-profissional/)
+Este é meu portfólio profissional, onde apresento meus projetos, habilidades técnicas, experiência acadêmica e profissional.
+
+### 🔗 Acesso ao site
+Acesse através do link:https://vitorveigas.github.io/portfolio-profissional/
+
+### 🧭 Navegação
+- O menu superior permite navegar entre seções como *Sobre Mim, **Projetos, **Experiências* e *Contato*.
+- Cada projeto contém:
+  - Breve descrição
+  - Tecnologias utilizadas
+  - Captura de tela 
+
+### ✅ Requisitos de visualização
+- Recomendado abrir em navegadores modernos (Google Chrome, Firefox, etc.)
+- Layout responsivo, adaptado para desktop e dispositivos móveis.
