@@ -45,7 +45,7 @@ Acesse através do link: :https://vitorveigas.github.io/portfolio-profissional/
 - Recomendado abrir em navegadores modernos (Google Chrome, Firefox, etc.)
 - Layout responsivo, adaptado para desktop e dispositivos móveis.
 
-  ## ⚙️ Instruções para Desenvolvimento
+## ⚙️ Instruções para Desenvolvimento
 
 Este portfólio foi desenvolvido utilizando apenas *HTML, **CSS* e *JavaScript puro*, e com o framework Bootstrap para a responsividade do site. Por isso, não é necessário instalar dependências ou configurar ambientes complexos.
 
