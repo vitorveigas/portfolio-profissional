@@ -15,6 +15,7 @@ O principal objetivo deste projeto é centralizar minhas informações profissio
 - Bootstrap - Para a criação de um layout responsivo.
 - JavaScript - Para o usuário poder interagir com o site.
 - MockFlow- Para criar wireframes.
+- EmailJS - Para enviar e-mails.
 
 ---
 
@@ -22,3 +23,6 @@ O principal objetivo deste projeto é centralizar minhas informações profissio
 
 ![Wireframe da página](Imagens/Wireframe-Page%201%20(4).png)
 
+## 🛜 Link do portfólio
+
+[Texto do Link](https://vitorveigas.github.io/portfolio-profissional/)
